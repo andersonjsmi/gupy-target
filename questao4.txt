@@ -1,0 +1,1 @@
+ligando o primeiro interruptor e verificando qual lampada ele acende na primeira ida, depois desligando o primeiro interruptor e ligando o segundo e verificando qual lampada ele acendeu na segunda ida o terceiro interruptor pertence a sala que a lampada não acendeu.
